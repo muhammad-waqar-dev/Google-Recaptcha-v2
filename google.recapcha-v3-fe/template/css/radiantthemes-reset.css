@@ -1,0 +1,1001 @@
+body {
+	background-color: #fff
+}
+
+body {
+font-family: "Nunito";
+	font-size: 16px;
+	letter-spacing:0;
+	line-height: 28px;
+	font-weight: 400;
+	font-style: normal;
+	color: #696969;
+}
+
+h1 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 50px ;
+	line-height: 68px;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000 ;
+}
+
+h2 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 45px;
+	line-height: 60px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h3 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 36px;
+	line-height: 50px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h4 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 25px;
+	line-height: 34px;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h5 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 20px ;
+	line-height: 30px;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h6 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 18px;
+  line-height: 32px;
+  font-weight: 600;
+  font-style: normal;
+	letter-spacing: 0;
+	color: #104cba;
+  
+}
+
+body>.scrollup {
+	background-color: #fff
+}
+
+body>.scrollup {
+	color: #191919
+}
+
+/*.wraper_blog_main>.container>.row>[class*="col-"] {
+	padding-left: 15px;
+	padding-right: 15px;
+}*/
+
+.wraper_inner_banner {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+	background-color: #f6f6f6;
+}
+
+.wraper_inner_banner_main {
+	border-bottom-color: rgba(255, 255, 255, .01);
+}
+
+.inner_banner_main .title {
+	/*font-family: 'Roboto', sans-serif;*/
+	line-height: 48px;
+	letter-spacing: -1px;
+	font-weight: 700;
+	font-style: normal;
+	color: #000;
+	font-size: 40px;
+}
+
+.wraper_inner_banner .wraper_inner_banner_main .inner_banner_main .title{color: #000;}
+
+.inner_banner_main .subtitle {
+	/*font-family: 'Roboto', sans-serif;*/
+	line-height: 30px;
+	font-weight: 600;
+	font-style: normal;
+	color: #fff;
+	font-size: 20px;
+}
+
+.inner_banner_breadcrumb #crumbs {
+	font-family: 'Poppins';
+	line-height: 28px;
+	font-weight: 400;
+	font-style: normal;
+	color: #000;
+	font-size: 16px;
+}
+
+.wraper_inner_banner_breadcrumb>.container {
+	padding-top: 0;
+	padding-bottom: 92px
+}
+
+.wraper_footer.style-default .wraper_footer_main {
+	background-color: #00030B;
+}
+
+.wraper_footer.style-default .wraper_footer_main {
+	border-bottom-color: rgba(255, 255, 255, .17)
+}
+
+.wraper_footer.style-default .wraper_footer_copyright {
+	background-color: #00030B;
+}
+
+.radiantthemes-button>.radiantthemes-button-main, .gdpr-notice .btn, .shop_single>.summary form.cart .button, .shop_single #review_form #respond input[type=submit], .woocommerce button.button[name=apply_coupon], .woocommerce button.button[name=update_cart], .woocommerce button.button[name=update_cart]:disabled, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce form.checkout_coupon .form-row .button, .woocommerce #payment #place_order, .woocommerce .return-to-shop .button, .woocommerce form .form-row input.button, .woocommerce table.shop_table.wishlist_table>tbody>tr>td.product-add-to-cart a, .widget-area>.widget.widget_price_filter .button, .post.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .tribe_events.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .testimonial.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .team.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .portfolio.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .case-studies.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .client.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .product.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .post.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .tribe_events.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .testimonial.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .team.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .portfolio.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .case-studies.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .client.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .product.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .comments-area .comment-form>p button[type=submit], .comments-area .comment-form>p button[type=reset], .wraper_error_main.style-one .error_main .btn, .wraper_error_main.style-two .error_main .btn, .wraper_error_main.style-three .error_main_item .btn, .wraper_error_main.style-four .error_main .btn {
+	padding:11px 33px;
+	border-radius: 4px;
+}
+
+.radiantthemes-button>.radiantthemes-button-main, .gdpr-notice .btn, .shop_single>.summary form.cart .button, .shop_single #review_form #respond input[type=submit], .woocommerce button.button[name=apply_coupon], .woocommerce button.button[name=update_cart], .woocommerce button.button[name=update_cart]:disabled, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce form.checkout_coupon .form-row .button, .woocommerce #payment #place_order, .woocommerce .return-to-shop .button, .woocommerce form .form-row input.button, .woocommerce table.shop_table.wishlist_table>tbody>tr>td.product-add-to-cart a, .widget-area>.widget.widget_price_filter .button, .post.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .tribe_events.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .testimonial.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .team.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .portfolio.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .case-studies.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .client.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .product.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .comments-area .comment-form>p button[type=submit], .comments-area .comment-form>p button[type=reset], .wraper_error_main.style-one .error_main .btn, .wraper_error_main.style-two .error_main .btn, .wraper_error_main.style-three .error_main_item .btn, .wraper_error_main.style-four .error_main .btn {
+	background: linear-gradient(to right, #FF3834 0%, #FF7133 100%);
+}
+
+.radiantthemes-button>.radiantthemes-button-main:hover, .gdpr-notice .btn:hover, .shop_single>.summary form.cart .button:hover, .shop_single #review_form #respond input[type=submit]:hover, .woocommerce button.button[name=apply_coupon]:hover, .woocommerce button.button[name=update_cart]:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover, .woocommerce form.checkout_coupon .form-row .button:hover, .woocommerce #payment #place_order:hover, .woocommerce .return-to-shop .button:hover, .woocommerce form .form-row input.button:hover, .woocommerce table.shop_table.wishlist_table>tbody>tr>td.product-add-to-cart a:hover, .widget-area>.widget.widget_price_filter .button:hover, .post.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .tribe_events.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .testimonial.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .team.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .portfolio.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .case-studies.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .client.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .product.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .comments-area .comment-form>p button[type=reset]:hover, .wraper_error_main.style-one .error_main .btn:hover, .wraper_error_main.style-two .error_main .btn:hover, .wraper_error_main.style-three .error_main_item .btn:hover, .wraper_error_main.style-four .error_main .btn:hover {
+	background: linear-gradient(to right, #FF3834 0%, #FF7133 100%);
+  border-radius: 4px;
+}
+
+.radiantthemes-button>.radiantthemes-button-main, .gdpr-notice .btn, .shop_single>.summary form.cart .button, .shop_single #review_form #respond input[type=submit], .woocommerce button.button[name=apply_coupon], .woocommerce button.button[name=update_cart], .woocommerce button.button[name=update_cart]:disabled, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce form.checkout_coupon .form-row .button, .woocommerce #payment #place_order, .woocommerce .return-to-shop .button, .woocommerce form .form-row input.button, .woocommerce table.shop_table.wishlist_table>tbody>tr>td.product-add-to-cart a, .widget-area>.widget.widget_price_filter .button, .post.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .tribe_events.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .testimonial.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .team.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .portfolio.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .case-studies.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .client.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .product.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span, .comments-area .comment-form>p button[type=submit], .comments-area .comment-form>p button[type=reset], .wraper_error_main.style-one .error_main .btn, .wraper_error_main.style-two .error_main .btn, .wraper_error_main.style-three .error_main_item .btn, .wraper_error_main.style-four .error_main .btn {
+	border: none;
+}
+
+.radiantthemes-button>.radiantthemes-button-main:hover, .gdpr-notice .btn:hover, .shop_single>.summary form.cart .button:hover, .shop_single #review_form #respond input[type=submit]:hover, .woocommerce button.button[name=apply_coupon]:hover, .woocommerce button.button[name=update_cart]:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover, .woocommerce form.checkout_coupon .form-row .button:hover, .woocommerce #payment #place_order:hover, .woocommerce .return-to-shop .button:hover, .woocommerce form .form-row input.button:hover, .woocommerce table.shop_table.wishlist_table>tbody>tr>td.product-add-to-cart a:hover, .widget-area>.widget.widget_price_filter .button:hover, .post.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .tribe_events.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .testimonial.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .team.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .portfolio.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .case-studies.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .client.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .product.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .comments-area .comment-form>p button[type=submit]:hover, .comments-area .comment-form>p button[type=reset]:hover, .wraper_error_main.style-one .error_main .btn:hover, .wraper_error_main.style-two .error_main .btn:hover, .wraper_error_main.style-three .error_main_item .btn:hover, .wraper_error_main.style-four .error_main .btn:hover {
+	border: 1px solid #fa897d;
+}
+.page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span:hover{
+	box-shadow: 0px 11px 14px -7px rgba(0, 0, 0, .25) !important;
+    transform: translateY(-5px);
+    -webkit-transform: translateY(-5px);
+}
+/*.page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:hover{
+	box-shadow: 0px 11px 14px -7px rgba(0, 0, 0, .25) !important;
+    transform: translateY(-5px);
+    -webkit-transform: translateY(-5px);box-shadow: 0px 11px 14px -7px rgba(0, 0, 0, .25) !important;
+    transform: translateY(-5px);
+    -webkit-transform: translateY(-5px);
+}*/
+.product.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn span {
+	background: linear-gradient(to right, #FF3834 0%, #FF7133 100%);
+    color: #fff;
+    border-radius: 4px;
+    padding: 11px 33px;
+    border: 0px none;
+    font-size: 17px;
+    line-height: 30px;
+  font-weight: 700;
+}
+
+.radiantthemes-button>.radiantthemes-button-main, .gdpr-notice .btn, .shop_single>.summary form.cart .button, .shop_single #review_form #respond input[type=submit], .woocommerce button.button[name=apply_coupon], .woocommerce button.button[name=update_cart], .woocommerce button.button[name=update_cart]:disabled, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce form.checkout_coupon .form-row .button, .woocommerce #payment #place_order, .woocommerce .return-to-shop .button, .woocommerce form .form-row input.button, .woocommerce table.shop_table.wishlist_table>tbody>tr>td.product-add-to-cart a, .widget-area>.widget.widget_price_filter .button, .post.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .tribe_events.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .testimonial.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .team.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .portfolio.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .case-studies.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .client.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .product.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .comments-area .comment-form>p button[type=submit], .comments-area .comment-form>p button[type=reset], .wraper_error_main.style-one .error_main .btn, .wraper_error_main.style-two .error_main .btn, .wraper_error_main.style-three .error_main_item .btn, .wraper_error_main.style-four .error_main .btn {
+	-moz-box-shadow: 0 0 0 0 rgba(0, 0, 0, .01);
+	-webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, .01);
+	-ms-box-shadow: 0 0 0 0 rgba(0, 0, 0, .01);
+	-o-box-shadow: 0 0 0 0 rgba(0, 0, 0, .01);
+	box-shadow: 0 0 0 0 rgba(0, 0, 0, .01)
+}
+
+.radiantthemes-button>.radiantthemes-button-main, .gdpr-notice .btn, .shop_single>.summary form.cart .button, .shop_single #review_form #respond input[type=submit], .woocommerce button.button[name=apply_coupon], .woocommerce button.button[name=update_cart], .woocommerce button.button[name=update_cart]:disabled, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce form.checkout_coupon .form-row .button, .woocommerce #payment #place_order, .woocommerce .return-to-shop .button, .woocommerce form .form-row input.button, .woocommerce table.shop_table.wishlist_table>tbody>tr>td.product-add-to-cart a, .widget-area>.widget.widget_price_filter .button, .post.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .tribe_events.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .testimonial.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .team.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .portfolio.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .case-studies.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .client.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .product.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .comments-area .comment-form>p button[type=submit], .comments-area .comment-form>p button[type=reset], .wraper_error_main.style-one .error_main .btn, .wraper_error_main.style-two .error_main .btn, .wraper_error_main.style-three .error_main_item .btn, .wraper_error_main.style-four .error_main .btn {
+	text-transform: capitalize;
+	line-height: 30px;
+	font-weight: 700;
+	font-style: normal;
+	color: #fff;
+	font-size: 17px
+}
+
+.radiantthemes-button>.radiantthemes-button-main:hover, .gdpr-notice .btn:hover, .shop_single>.summary form.cart .button:hover, .shop_single #review_form #respond input[type=submit]:hover, .woocommerce button.button[name=apply_coupon]:hover, .woocommerce button.button[name=update_cart]:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover, .woocommerce form.checkout_coupon .form-row .button:hover, .woocommerce #payment #place_order:hover, .woocommerce .return-to-shop .button:hover, .woocommerce form .form-row input.button:hover, .woocommerce table.shop_table.wishlist_table>tbody>tr>td.product-add-to-cart a:hover, .widget-area>.widget.widget_price_filter .button:hover, .post.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .tribe_events.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .testimonial.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .team.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .portfolio.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .case-studies.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .client.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .product.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn:before, .comments-area .comment-form>p button[type=submit]:hover, .comments-area .comment-form>p button[type=reset]:hover, .wraper_error_main.style-one .error_main .btn:hover, .wraper_error_main.style-two .error_main .btn:hover, .wraper_error_main.style-three .error_main_item .btn:hover, .wraper_error_main.style-four .error_main .btn:hover {
+	color: #fff
+}
+
+.radiantthemes-button>.radiantthemes-button-main i {
+	color: #fff
+}
+
+.radiantthemes-button>.radiantthemes-button-main:hover i {
+	color: #fff
+}
+
+.radiant-contact-form .form-row, div.wpcf7-response-output {
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 20px;
+	margin-left: 0
+}
+
+.radiant-contact-form .form-row input[type=text], .radiant-contact-form .form-row input[type=email], .radiant-contact-form .form-row input[type=url], .radiant-contact-form .form-row input[type=tel], .radiant-contact-form .form-row input[type=number], .radiant-contact-form .form-row input[type=password], .radiant-contact-form .form-row input[type=date], .radiant-contact-form .form-row input[type=time], .radiant-contact-form .form-row select {
+	height: 45px
+}
+
+.radiant-contact-form .form-row textarea {
+	height: 100px
+}
+
+.radiant-contact-form .form-row input[type=text]:focus, .radiant-contact-form .form-row input[type=email]:focus, .radiant-contact-form .form-row input[type=url]:focus, .radiant-contact-form .form-row input[type=tel]:focus, .radiant-contact-form .form-row input[type=number]:focus, .radiant-contact-form .form-row input[type=password]:focus, .radiant-contact-form .form-row input[type=date]:focus, .radiant-contact-form .form-row input[type=time]:focus, .radiant-contact-form .form-row select:focus, .radiant-contact-form .form-row textarea:focus {
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0
+}
+
+.radiant-contact-form .form-row input[type=text], .radiant-contact-form .form-row input[type=email], .radiant-contact-form .form-row input[type=url], .radiant-contact-form .form-row input[type=tel], .radiant-contact-form .form-row input[type=number], .radiant-contact-form .form-row input[type=password], .radiant-contact-form .form-row input[type=date], .radiant-contact-form .form-row input[type=time], .radiant-contact-form .form-row select, .radiant-contact-form .form-row textarea {
+	-moz-box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15);
+	-webkit-box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15);
+	-ms-box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15);
+	-o-box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15);
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15)
+}
+
+.wraper_error_main.style-two {
+	background-color: #fff
+}
+
+.wraper_error_main.style-three {
+	background-color: #fff
+}
+
+.wraper_error_main.style-four {
+	background-color: #fff
+}
+
+.radiantthemes-button>.radiantthemes-button-main, .gdpr-notice .btn, .shop_single>.summary form.cart .button, .shop_single #review_form #respond input[type=submit], .woocommerce button.button[name=apply_coupon], .woocommerce button.button[name=update_cart], .woocommerce button.button[name=update_cart]:disabled, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce form.checkout_coupon .form-row .button, .woocommerce #payment #place_order, .woocommerce .return-to-shop .button, .woocommerce form .form-row input.button, .woocommerce table.shop_table.wishlist_table>tbody>tr>td.product-add-to-cart a, .widget-area>.widget.widget_price_filter .button, .post.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .page.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .tribe_events.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .testimonial.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .team.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .portfolio.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .case-studies.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .client.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .product.style-default .entry-main .entry-extra .entry-extra-item .post-read-more .btn, .comments-area .comment-form>p button[type=submit], .comments-area .comment-form>p button[type=reset], .wraper_error_main.style-one .error_main .btn, .wraper_error_main.style-two .error_main .btn, .wraper_error_main.style-three .error_main_item .btn, .wraper_error_main.style-four .error_main .btn {
+	line-height: 30px;
+	color: #ffffff;
+	font-size: 17px;
+}
+.woocommerce button.button:disabled:hover, 
+.woocommerce button.button:disabled[disabled]:hover{
+	color: #fff !important;
+}
+.radiantthemes-website-layout.boxed {
+	max-width: 1200px
+}
+
+@media (min-width:1200px) {
+	.radiantthemes-website-layout.boxed .container {
+		width: calc(1200px - 30px)
+	}
+	.radiantthemes-website-layout.boxed .container.page-container {
+		width: 1200px
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+ /* 
+body {
+font-family: "Nunito";
+	font-size: 16px;
+	letter-spacing:0;
+	line-height: 28px;
+	font-weight: 400;
+	font-style: normal;
+	color: #696969;
+}
+
+h1 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 40px ;
+	line-height: 50px;
+	font-weight: 600 ;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000 ;
+}
+
+h2 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 33px;
+	line-height: 43px;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h3 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 22px;
+	line-height: 30px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+h4 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 20px;
+	line-height: 28px;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h5 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 18px;
+	line-height: 26px;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h6 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 15px;
+	line-height: 27px;
+	font-weight: 600;
+  font-style: normal;
+	letter-spacing: 0;
+	color: #104cba;
+  
+}
+  */
+  
+.woocommerce #content table.cart .product-thumbnail, 
+.woocommerce table.cart .product-thumbnail, .woocommerce-page #content table.cart .product-thumbnail, .woocommerce-page table.cart .product-thumbnail {
+    display: block;
+    width: 100%;
+    text-align: center !important;
+}
+.radiantthemes-shop.four-column > .radiantthemes-shop-box {
+    width: 50%;
+}
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  
+ /*  
+body {
+font-family: "Nunito";
+	font-size: 16px;
+	letter-spacing:0;
+	line-height: 28px;
+	font-weight: 400;
+	font-style: normal;
+  color: #696969;}
+
+h1 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 40px ;
+	line-height: 50px;
+	font-weight: 600 ;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000 ;
+}
+
+h2 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 33px;
+	line-height: 43px;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h3 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 22px;
+	line-height: 30px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+h4 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 20px;
+	line-height: 28px;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h5 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 18px;
+	line-height: 26px;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h6 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 15px;
+	line-height: 27px;
+	font-weight: 600;
+  font-style: normal;
+	letter-spacing: 0;
+	color: #104cba;
+  
+}*/
+  
+  
+  
+.radiantthemes-shop.four-column > .radiantthemes-shop-box {
+    width: 100%;
+}
+}
+@media screen and (min-width:321px) and (max-width:479px) {
+  
+  /* 
+body {
+font-family: "Nunito";
+	font-size: 16px;
+	letter-spacing:0;
+	line-height: 28px;
+	font-weight: 400;
+	font-style: normal;
+	color: #696969;
+}
+
+h1 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 35px;
+	line-height: 42px;
+	font-weight: 600 ;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000 ;
+}
+
+h2 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 28px;
+	line-height: 36px;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h3 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 22px;
+	line-height: 30px;
+	font-weight: 500;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+h4 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 20px;
+	line-height: 28px;
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h5 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 18px;
+	line-height: 26px;
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: 0;
+	color: #000;
+}
+
+h6 {
+	font-family: "Poppins", Sans-serif;
+  text-transform: capitalize;
+	font-size: 15px;
+	line-height: 27px;
+	font-weight: 400;
+  font-style: normal;
+	letter-spacing: 0;
+	color: #104cba;
+  
+}*/
+  
+.radiantthemes-shop.four-column > .radiantthemes-shop-box {
+    width: 100%;
+}
+.woocommerce #content table.cart .product-thumbnail, 
+.woocommerce table.cart .product-thumbnail, .woocommerce-page #content table.cart .product-thumbnail, .woocommerce-page table.cart .product-thumbnail {
+    display: block;
+    width: 100%;
+    text-align: center !important;
+}
+}
+
+.radiantthemes-website-layout.boxed .container-fluid {
+	max-width: calc(1200px - 30px)
+}
+
+.comment-content ul:not(.contact)>li:before, .comments-area ol.comment-list li .reply, .default-page ul:not(.contact)>li:before, .post-tags a[rel=tag]:hover, .post.single-post .entry-meta>.holder>.data .meta>span a:hover, .post.style-one .post-meta>span i, .post.style-three .entry-main .post-meta>span i, .post.style-two .entry-main .post-meta>span i, .radiantthemes-shop-box.style-five>.holder:hover>.data>.action-buttons>.added_to_cart, .radiantthemes-shop-box.style-five>.holder:hover>.data>.action-buttons>.button, .radiantthemes-shop-box.style-one>.holder>.data .price, .sidr-close, .widget-area>.widget .tagcloud>[class*=tag-link-]:hover, .widget-area>.widget.widget_rss ul li .rss-date:before, .wraper_maintenance_main.style-one .maintenance_main_item h2, .wraper_maintenance_main.style-three .maintenance_main_item h1 strong, a, a:focus, a:hover {
+	color: #696969;
+}
+
+/*.error_main .btn:before, .footer_main_item .widget-title:before, .footer_main_item ul.social li a:hover, .hamburger-menu-main .widget-title:before, .maintenance_main .maintenance-progress>.maintenance-progress-bar, .maintenance_main .maintenance-progress>.maintenance-progress-bar>.maintenance-progress-percentage>span, .nav>[class*=menu-]>ul.menu>li:before, .nicescroll-cursors, .pagination>.current, .post.style-five>.holder .category-list span, .post.style-three .entry-main .post-read-more .btn, .post.style-two .entry-main .post-read-more .btn, .radiantthemes-search-form .form-row button[type=submit], .radiantthemes-shop-box.style-one>.holder>.action-buttons>.added_to_cart, .radiantthemes-shop-box.style-one>.holder>.action-buttons>.button, .radiantthemes-shop-box.style-one>.holder>.onsale, .radiantthemes-shop-box.style-one>.holder>.pic>.onsale, .radiantthemes-shop-box.style-two>.holder>.onsale, .widget-area>.widget .widget-title:after, .widget-area>.widget.widget_archive ul li a:before, .widget-area>.widget.widget_categories ul li a:before, .widget-area>.widget.widget_meta ul li a:before, .widget-area>.widget.widget_nav_menu ul li a:before, .widget-area>.widget.widget_pages ul li a:before, .widget-area>.widget.widget_price_filter .ui-slider .ui-slider-handle, .widget-area>.widget.widget_price_filter .ui-slider .ui-slider-range, .woocommerce nav.woocommerce-pagination ul li span.current, .wraper_error_main.style-four .error_main .btn, .wraper_error_main.style-one .error_main .btn, .wraper_error_main.style-three .error_main_item .btn, .wraper_error_main.style-two .error_main .btn {
+	background-color: #5f27d4;
+}*/
+
+.shop_single>.onsale {
+	background-color: #5f27d4;
+}
+
+.edit-link {
+	background-color: #5f27d4;
+}
+
+.footer_main_item ul.social li a:hover, .rt-shop-box.style-two>.holder>.pic>.data, .widget-area>.widget .tagcloud>[class*=tag-link-]:hover, .widget-area>.widget select:focus {
+	border-color: #3a3d42
+}
+
+.maintenance_main .maintenance-progress>.maintenance-progress-bar>.maintenance-progress-percentage>span:before {
+	border-top-color: #104cba;
+}
+
+.radiant-contact-form.element-two .form-row .wpcf7-form-control-wrap:before {
+	border-bottom-color: #104cba;
+}
+
+.comment-content blockquote, .default-page blockquote {
+	border-left-color: #104cba;
+}
+
+.wraper_inner_banner_main .inner_banner_main {
+	text-align: left
+}
+
+.wraper_inner_banner_breadcrumb .inner_banner_breadcrumb {
+	text-align: left
+}
+
+.wraper_footer.style-two .footer_main_item button[type=button], .wraper_footer.style-two .footer_main_item button[type=submit], .wraper_footer.style-two .footer_main_item input[type=button], .wraper_footer.style-two .footer_main_item input[type=submit] {
+	background-color: #5f27d4
+}
+
+.wraper_footer.style-eleven .footer_main_item button[type=button], .wraper_footer.style-eleven .footer_main_item button[type=submit], .wraper_footer.style-eleven .footer_main_item input[type=button], .wraper_footer.style-eleven .footer_main_item input[type=submit] {
+	background-color: #5f27d4
+}
+
+.post.style-three .entry-main .post-read-more .btn, .post.style-two .post-read-more .btn, .radiant-contact-form .form-row button[type=submit], .radiant-contact-form .form-row input[type=button], .radiant-contact-form .form-row input[type=submit], .radiantthemes-button>.radiantthemes-button-main, .rt-fancy-text-box.element-four>.holder>.more>a, .rt-fancy-text-box.element-one>.holder>.more>a, .rt-fancy-text-box.element-three>.holder>.more>a, .rt-fancy-text-box.element-two>.holder>.more>a, .rt-portfolio-box.element-four .rt-portfolio-box-item>.holder>.pic>.data .btn, .rt-portfolio-box.element-one .rt-portfolio-box-item>.holder>.data .btn, .rt-portfolio-box.element-one .rt-portfolio-box-item>.holder>.title .btn, .rt-portfolio-box.element-two .rt-portfolio-box-item>.holder>.pic>.data .btn, .rt-portfolio-box.element-two .rt-portfolio-box-item>.holder>.pic>.title .btn, .widget-area>.widget.widget_price_filter .button {
+	background-color: #5f27d4
+}
+
+.radiantthemes-dropcaps.element-two>.holder>.radiantthemes-dropcap-letter {
+	color: #3a3d42
+}
+
+.radiantthemes-dropcaps.element-two>.holder>.radiantthemes-dropcap-letter {
+	border-color: #3a3d42
+}
+
+.radiantthemes-dropcaps.element-eight>.holder>.radiantthemes-dropcap-letter, .radiantthemes-dropcaps.element-seven>.holder>.radiantthemes-dropcap-letter, .radiantthemes-dropcaps.element-three>.holder>.radiantthemes-dropcap-letter {
+	background-color: #5f27d4
+}
+
+.rt-blockquote.element-one>blockquote>i.fa {
+	color: #3a3d42
+}
+
+.radiantthemes-accordion.element-one .radiantthemes-accordion-item.radiantthemes-active>.radiantthemes-accordion-item-title>.radiantthemes-accordion-item-title-icon, .radiantthemes-accordion.element-two .radiantthemes-accordion-item.radiantthemes-active, .radiantthemes-accordion.element-two .radiantthemes-accordion-item>.radiantthemes-accordion-item-title>.radiantthemes-accordion-item-title-icon>.line:after, .radiantthemes-accordion.element-two .radiantthemes-accordion-item>.radiantthemes-accordion-item-title>.radiantthemes-accordion-item-title-icon>.line:before {
+	background-color: #5f27d4
+}
+
+.radiantthemes-list.element-eight ul li:before, .radiantthemes-list.element-five ul li:before, .radiantthemes-list.element-four ul li:before, .radiantthemes-list.element-nine ul li:before, .radiantthemes-list.element-one ul li:before, .radiantthemes-list.element-seven ul li:before, .radiantthemes-list.element-six ul li:before, .radiantthemes-list.element-three ul li:before, .radiantthemes-list.element-two ul li:before {
+	color: #3a3d42
+}
+
+.testimonial.element-one .testimonial-item>.holder>.testimonial-title .designation, .testimonial.element-two .testimonial-item>.holder>.testimonial-data:before, .testimonial.element-two .testimonial-item>.holder>.testimonial-title>.testimonial-title-data .designation {
+	color: #3a3d42
+}
+
+.testimonial.element-one .testimonial-item>.holder>.testimonial-pic>.testimonial-pic-holder>.testimonial-pic-icon, .testimonial.element-two .testimonial-item>.holder>.testimonial-pic>.testimonial-pic-holder>.testimonial-pic-icon, .testimonial[class*=element-].owl-dot-style-one .owl-dots>.owl-dot>span, .testimonial[class*=element-].owl-dot-style-two .owl-dots>.owl-dot>span, .testimonial[class*=element-].owl-nav-style-two .owl-nav>.owl-next, .testimonial[class*=element-].owl-nav-style-two .owl-nav>.owl-prev {
+	background-color: #5f27d4
+}
+
+.rt-tab.element-eight>ul.nav-tabs>li>a:before, .rt-tab.element-eleven>ul.nav-tabs>li>a:before, .rt-tab.element-four>ul.nav-tabs>li>a:before, .rt-tab.element-nine>ul.nav-tabs>li>a:before, .rt-tab.element-seven>ul.nav-tabs>li.active>a:before, .rt-tab.element-ten>ul.nav-tabs>li>a:before, .rt-tab.element-three>ul.nav-tabs>li>a:before {
+	background-color: #5f27d4
+}
+
+.rt-tab.element-eight>ul.nav-tabs>li.active>a, .rt-tab.element-one>ul.nav-tabs>li.active>a, .rt-tab.element-six>ul.nav-tabs>li.active>a, .rt-tab.element-ten>ul.nav-tabs>li.active>a, .rt-tab.element-three>ul.nav-tabs>li.active>a, .rt-tab.element-three>ul.nav-tabs>li.active>a i {
+	color: #3a3d42
+}
+
+.rt-tab.element-six>ul.nav-tabs>li>a:before {
+	border-color: #3a3d42
+}
+
+.radiantthemes-iconbox.element-one>.radiantthemes-iconbox-holder>i {
+	color: #3a3d42
+}
+
+.rt-progress-bar.element-one>.progress>.progress-bar {
+	background-color: #5f27d4
+}
+
+.gdpr-notice .btn, .post.style-three .entry-main .post-read-more .btn, .post.style-two .post-read-more .btn, .radiant-contact-form .form-row button[type=submit], .radiant-contact-form .form-row input[type=button], .radiant-contact-form .form-row input[type=submit], .radiantthemes-button>.radiantthemes-button-main, .rt-fancy-text-box.element-four>.holder>.more>a, .rt-fancy-text-box.element-one>.holder>.more>a, .rt-fancy-text-box.element-three>.holder>.more>a, .rt-fancy-text-box.element-two>.holder>.more>a, .rt-portfolio-box.element-four .rt-portfolio-box-item>.holder>.pic>.data .btn, .rt-portfolio-box.element-one .rt-portfolio-box-item>.holder>.data .btn, .rt-portfolio-box.element-one .rt-portfolio-box-item>.holder>.title .btn, .rt-portfolio-box.element-two .rt-portfolio-box-item>.holder>.pic>.data .btn, .rt-portfolio-box.element-two .rt-portfolio-box-item>.holder>.pic>.title .btn, .widget-area>.widget.widget_price_filter .button {
+	background-color: #5f27d4
+}
+
+.rt-portfolio-box.element-ten .rt-portfolio-box-item>.holder>.overlay ul.category-list li {
+	background-color: #5f27d4
+}
+
+.rt-fancy-text-box.element-three>.holder:hover .more .btn, .rt-fancy-text-box.element-two>.holder .icon i {
+	color: #3a3d42
+}
+
+.radiantthemes-custom-menu.element-one ul.menu li a:before {
+	background-color: #5f27d4
+}
+
+.blog.element-one .blog-item>.holder>.data .btn, .blog.element-one .blog-item>.holder>.data ul.meta-data>li.category {
+	color: #3a3d42
+}
+
+.blog.element-one .blog-item>.holder>.data .btn:before {
+	background-color: #5f27d4
+}
+
+.rt-animated-link.element-eight>.holder>.main-link, .rt-animated-link.element-five>.holder>.main-link, .rt-animated-link.element-four>.holder>.main-link, .rt-animated-link.element-one>.holder>.main-link, .rt-animated-link.element-seven>.holder>.main-link, .rt-animated-link.element-six>.holder>.main-link, .rt-animated-link.element-three>.holder>.main-link, .rt-animated-link.element-two>.holder>.main-link {
+	color: #3a3d42
+}
+
+.rt-animated-link.element-eight>.holder>.main-link-fliper, .rt-animated-link.element-five>.holder>.main-link:before, .rt-animated-link.element-four>.holder>.main-link:before, .rt-animated-link.element-seven>.holder>.main-link:after, .rt-animated-link.element-seven>.holder>.main-link:before, .rt-animated-link.element-six>.holder>.main-link>.dot-holder>.dots, .rt-animated-link.element-three>.holder>.main-link:before {
+	background-color: #5f27d4
+}
+
+.rt-animated-link.element-one>.holder:before {
+	border-color: #3a3d42
+}
+
+.radiantthemes-timeline.element-one>.radiantthemes-timeline-item>.radiantthemes-timeline-item-datestamp, .radiantthemes-timeline.element-two>.radiantthemes-timeline-item>.radiantthemes-timeline-item-line:after {
+	background-color: #5f27d4
+}
+
+.radiantthemes-timeline.element-one>.radiantthemes-timeline-item>.holder>.radiantthemes-timeline-item-data .month, .radiantthemes-timeline.element-three>.radiantthemes-timeline-slider .radiantthemes-timeline-item .radiantthemes-timeline-item-data .date {
+	color: #3a3d42
+}
+
+.radiantthemes-timeline.element-three>.radiantthemes-timeline-slider>.owl-thumbs>.owl-thumb-item.active:after, .radiantthemes-timeline.element-two>.radiantthemes-timeline-item>.radiantthemes-timeline-item-dot {
+	border-color: #3a3d42
+}
+
+.team.element-one .team-item>.holder>.data .designation, .team.element-one .team-item>.holder>.pic>.pic-data .designation {
+	color: #3a3d42
+}
+
+.radiantthemes-currency-converter.element-one .radiantthemes-currency-converter-form .radiantthemes-currency-converter-form-row select {
+	color: #3a3d42
+}
+
+.radiantthemes-contact-box ul.contact li i {
+	color: #3a3d42
+}
+
+.radiantthemes-case-studies-slider.element-one .radiantthemes-case-studies-slider-item.first-item>.holder>.table>.table-cell>.data .btn {
+	background-color: #5f27d4
+}
+
+.wraper_inner_banner_main>.container {
+	padding-top: 166px;
+	padding-bottom: 20px;
+}
+.post.style-default.sticky, .page.style-default.sticky, .tribe_events.style-default.sticky, .testimonial.style-default.sticky, .team.style-default.sticky, .portfolio.style-default.sticky, .case-studies.style-default.sticky, .client.style-default.sticky, .product.style-default.sticky {
+	/*padding: 30px 30px 20px 30px;*/
+	margin-bottom: 30px !important;
+}
+
+ul.wp-block-latest-posts {
+	padding-left: 2.5em;
+}
+
+ul.wp-block-latest-posts li {
+	padding-left: 0px !important;
+}
+
+ul.wp-block-latest-posts li:before {
+	content: none !important;
+}
+
+ul.wp-block-latest-posts li a {
+	/*text-decoration: underline !important;*/
+	color: #0073aa;
+}
+
+.wp-block-quote p {
+	font-style: italic;
+	font-size: 17px;
+	margin: 0;
+	font-weight: 400;
+}
+
+.wp-block-quote cite {
+	font-weight: 400 !important;
+	font-size: 13px !important;
+	margin-left: 0px;
+}
+
+.wp-block-quote.is-large p, .wp-block-quote.is-style-large p {
+	font-size: 17px;
+	font-style: italic;
+	line-height: 1.6;
+	font-weight: 400;
+}
+
+.wp-block-quote.is-large cite {
+	text-align: left;
+}
+
+.wp-block-button.alignleft {
+	text-align: left;
+	float: left;
+	margin-right: 30px;
+}
+
+.wp-block-button.alignright {
+	text-align: right;
+	float: right;
+	margin-left: 30px;
+}
+
+.wp-block-categories li a, .wp-block-categories ul li a {
+	text-decoration: underline !important;
+	color: #696969;
+}
+
+ul.wp-block-archives.wp-block-archives-list li a {
+	/*text-decoration: underline !important;
+	color: #0073aa;*/
+}
+
+.wp-block-pullquote p {
+	font-size: 17px;
+	line-height: 1.6;
+	font-weight: 400;
+}
+
+.wp-block-pullquote cite {
+	font-size: 13px !important;
+	font-weight: 500;
+}
+
+.wp-block-pullquote blockquote {
+	padding-bottom: 20px;
+	padding-left: 0px;
+}
+
+.default-page .wp-block-pullquote {
+	border: 2px dotted;
+	padding: 0;
+}
+
+.wp-block-pullquote blockquote {
+	padding: 20px;
+	border-style: none !important;
+}
+
+.wp-block-image .alignleft {
+	float: left;
+	margin-right: 1em;
+}
+
+.wp-block-image .alignright {
+	float: right;
+	margin-left: 1em;
+}
+
+.wp-block-cover.alignleft {
+	float: left;
+	margin-right: 30px;
+	margin-top: 8px;
+}
+
+.wp-block-cover.alignright {
+	float: right;
+	margin-left: 30px;
+}
+
+
+.wp-block-categories-list li:before {
+	top: 5px !important;
+}
+
+.wp-block-verse {
+	padding: 35px 30px;
+	border-radius:4px;
+}
+
+.comment .comment-content ul {
+	padding-left: 0px !important;
+	list-style: disc;
+}
+
+.comment .comment-content ul li {
+	padding-left: 0px !important;
+}
+
+.comment .comment-content ul ul {
+	padding-left: 30px !important;
+	list-style: circle;
+}
+
+.blog div.entry-content {
+    font-size: 16px !important;
+    line-height: 28px;
+    /*margin-bottom: 25px !important;*/
+}
+
+
+.single-post .entry-main td a {
+    position: relative;
+    display: inline-block;
+}
+/*td a:hover {
+    color: #0067DA;
+}*/
+.single-post .entry-main td a:after {
+    content: "";
+    width: 0;
+    height: 1px;
+    bottom: 0px;
+    position: absolute;
+    left: auto;
+    right: 0;
+    -webkit-transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
+    transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
+    background: currentColor;
+}
+.single-post .entry-main td a:hover:after {
+    right: auto;
+    left: 0;
+    width: 100%;
+}
+.single-post .entry-main th a {
+    position: relative;
+    display: inline-block;
+}
+/*th a:hover {
+    color: #0067DA;
+}*/
+.single-post .entry-main th a:after {
+    content: "";
+    width: 0;
+    height: 1px;
+    bottom: 0px;
+    position: absolute;
+    left: auto;
+    right: 0;
+    -webkit-transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
+    transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
+    background: currentColor;
+}
+.single-post .entry-main th a:hover:after {
+    right: auto;
+    left: 0;
+    width: 100%;
+}
+
+/******* Right Side Widget*********/
+.widget-area > .widget.widget_archive ul li, .widget-area > .widget.widget_categories ul li, .widget-area > .widget.widget_meta ul li, .widget-area > .widget.widget_pages ul li, .widget-area > .widget.widget_nav_menu ul li, .widget-area > .widget.widget_layered_nav ul li, .widget-area > .widget.widget_product_categories ul li {
+    /*font-size: 16px;*/
+    line-height: 28px;
+}
+.widget.widget_archive ul li {
+    list-style: none;
+    /*padding-top: 12px;
+    padding-left: 16px;
+    padding-bottom: 12px;*/
+}
+/*.widget_archive li:nth-child(odd) {
+    background-color: #F9F9F9;
+}*/
+
+.radiantthemes-shop-box.style-one > .holder > .pic {
+	border-radius: 0px !important;
+}
+.woocommerce div.product div.images img {
+	border-radius:4px;
+}
+.wraper_shop_single.style-two .shop_single_accordion > .shop_single_accordion_item > .btn{
+	border-radius: 0px !important;
+}
+.woocommerce-info, 
+.woocommerce-error, 
+.woocommerce-message,
+.woocommerce .coupon, 
+.woocommerce .checkout_coupon {
+    border-radius:4px;
+}
+.woocommerce .cart-collaterals .cart_totals,
+.woocommerce .product-thumbnail .size-woocommerce_thumbnail{
+	border-radius:4px;
+}
+.inner_banner_main .title{
+	/*font-family: 'Roboto', sans-serif;*/
+}
+*[class^="wp-block-"] {
+    margin: 0px 0px; 
+}
+.wp-block-cover {
+    margin: 30px 0;
+}
+.wp-block-spacer {
+    margin: 0px;
+}
+.post-type-archive-product .wraper_shop_main > .container {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.radiantthemes-shop > .radiantthemes-shop-box {
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.wp-block-file, 
+.wp-block-archives {
+	margin-bottom: 30px;
+}
+.wp-block-calendar {
+    margin-bottom: 30px;
+}
+.wp-block-categories {
+    margin-bottom: 30px;
+}
+
+
+/*++++++++++++++++++++++++++++++++ EXTRA ++++++++++++++++++++++++++++++++*/
+
+
+.shop_single > .summary select{    height: 55px;
+    padding: 0px 10px 0px 10px;
+    border: 1px rgba(195, 196, 198, 0.5) solid;
+    font-weight: 400;
+    font-size: 15px;
+    border-radius: 4px;
+    color: #696969;}
